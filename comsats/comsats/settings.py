@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'home',
     'chatbot',
     'ChatApp',
+    'quizapp',
 ]
 
 MIDDLEWARE = [
